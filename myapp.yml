@@ -1,1 +1,1 @@
-spring.datasource.url=jdbc://db4free.net
+spring.datasource.url:jdbc://db4free.net
